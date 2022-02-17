@@ -8,9 +8,9 @@ body{
 }
 
 .content{
-	width: 1440px;
+	width: 80%;
 	padding-top: 60px;
-	padding-left: 300px;
+	padding-left: 20%;
 	font-family: "Arial MT";
     color: black;
     padding-bottom: 60px;
@@ -35,7 +35,7 @@ h2{
     font-size: 22px;
     line-height: 36px;
     padding-left: 47px;
-    
+
 
 }
 
